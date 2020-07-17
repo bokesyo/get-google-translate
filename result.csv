@@ -1,0 +1,11 @@
+,lang,Express1,Pron1,Audio1,Express2,Pron2,Audio2,Express3,Pron3,Audio3,Express4,Pron4,Audio4,Express5,Pron5,Audio5,Express6,Pron6,Audio6
+0,zh-CN,你好！,Nǐ hǎo!,zh-CN_1.mp3,再见！,Zàijiàn!,zh-CN_2.mp3,谢谢！,Xièxiè!,zh-CN_3.mp3,别客气。,Bié kèqì.,zh-CN_4.mp3,好！,Hǎo!,zh-CN_5.mp3,抱歉!,Bàoqiàn!,zh-CN_6.mp3
+1,ar,مرحبا!,marhba!,ar_1.mp3,وداعا!,wadaea!,ar_2.mp3,شكر!,shukr!,ar_3.mp3,مرحبا بك.,marhabaan bika.,ar_4.mp3,جيد!,jyd!,ar_5.mp3,آسف!,asaf!,ar_6.mp3
+2,ko,여보세요!,yeoboseyo!,ko_1.mp3,안녕!,annyeong!,ko_2.mp3,감사!,gamsa!,ko_3.mp3,아니에요.,anieyo.,ko_4.mp3,좋은!,joh-eun!,ko_5.mp3,죄송합니다!,joesonghabnida!,ko_6.mp3
+3,pt,Olá!,,pt_1.mp3,Tchau!,,pt_2.mp3,Obrigado!,,pt_3.mp3,Você é bem vindo.,,pt_4.mp3,Bom!,,pt_5.mp3,Desculpe!,,pt_6.mp3
+4,ru,Здравствуйте!,Zdravstvuyte!,ru_1.mp3,До свидания!,Do svidaniya!,ru_2.mp3,Спасибо!,Spasibo!,ru_3.mp3,Добро пожаловать.,Dobro pozhalovat'.,ru_4.mp3,Хорошо!,Khorosho!,ru_5.mp3,Сожалею!,Sozhaleyu!,ru_6.mp3
+5,ja,こんにちは！,Kon'nichiwa!,ja_1.mp3,バイバイ！,Baibai!,ja_2.mp3,ありがとう！,Arigatō!,ja_3.mp3,どういたしまして。,Dōitashimashite.,ja_4.mp3,良い！,Yoi!,ja_5.mp3,ごめんなさい！,Gomen'nasai!,ja_6.mp3
+6,de,Hallo!,,de_1.mp3,Tschüss!,,de_2.mp3,Vielen Dank!,,de_3.mp3,Bitte schön.,,de_4.mp3,Gut!,,de_5.mp3,Es tut uns leid!,,de_6.mp3
+7,fr,salut!,,fr_1.mp3,Au revoir!,,fr_2.mp3,Merci!,,fr_3.mp3,Je vous en prie.,,fr_4.mp3,Bien!,,fr_5.mp3,Désolé!,,fr_6.mp3
+8,en,Hello!,,en_1.mp3,Bye!,,en_2.mp3,Thanks!,,en_3.mp3,You are welcome.,,en_4.mp3,Good!,,en_5.mp3,Sorry!,,en_6.mp3
+9,es,¡Hola!,,es_1.mp3,¡Adiós!,,es_2.mp3,¡Gracias!,,es_3.mp3,De nada.,,es_4.mp3,¡Bueno!,,es_5.mp3,¡Lo siento!,,es_6.mp3
